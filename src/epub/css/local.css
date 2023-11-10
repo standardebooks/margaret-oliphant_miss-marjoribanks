@@ -22,6 +22,17 @@ footer{
 }
 /* end letters */
 
+/* Begin table */
+table{
+	margin: 1em auto;
+}
+
+table td:last-child{
+	font-variant-numeric: tabular-nums;
+	text-align: right;
+}
+/* end table */
+
 /* Begin verse */
 [epub|type~="z3998:verse"] p{
 	text-align: initial;
