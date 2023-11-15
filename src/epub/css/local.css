@@ -18,7 +18,7 @@ footer{
 }
 /* end letters */
 
-/* Begin table */
+/* Begin table, c46 */
 table{
 	margin: 1em auto;
 }
@@ -26,6 +26,10 @@ table{
 table td:last-child{
 	font-variant-numeric: tabular-nums;
 	text-align: right;
+}
+
+td:first-child{
+	padding-right: 1em;
 }
 /* end table */
 
