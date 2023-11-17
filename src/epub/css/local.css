@@ -49,3 +49,8 @@ td:first-child{
 	display: none;
 }
 /* end verse */
+
+/* Bespoke styling */
+#chapter-21 span{
+	font-size: larger;
+}
