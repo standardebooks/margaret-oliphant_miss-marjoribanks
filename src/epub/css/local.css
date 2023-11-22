@@ -18,7 +18,7 @@ footer{
 }
 /* end letters */
 
-/* Begin table, c46 */
+/* Begin table, c48 */
 table{
 	margin: 1em auto;
 }
@@ -50,7 +50,11 @@ td:first-child{
 }
 /* end verse */
 
-/* Bespoke styling */
+/* Bespoke styling, c21 */
+small{
+	vertical-align: 20%;
+}
+
 #chapter-21 span{
 	font-size: larger;
 }
