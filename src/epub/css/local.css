@@ -25,11 +25,8 @@ table{
 
 table td:last-child{
 	font-variant-numeric: tabular-nums;
+	padding-left: 1em;
 	text-align: right;
-}
-
-td:first-child{
-	padding-right: 1em;
 }
 /* end table */
 
@@ -51,10 +48,11 @@ td:first-child{
 /* end verse */
 
 /* Bespoke styling, c21 */
-small{
-	vertical-align: 20%;
-}
-
 #chapter-21 span{
 	font-size: larger;
+}
+
+#chapter-21 span + span{
+	font-size: smaller;
+	vertical-align: 20%;
 }
