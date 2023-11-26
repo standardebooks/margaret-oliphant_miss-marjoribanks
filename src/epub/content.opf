@@ -2,8 +2,8 @@
 <package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">url:https://standardebooks.org/ebooks/margaret-oliphant/miss-marjoribanks</dc:identifier>
-		<dc:date>1900-01-01T00:00:00Z</dc:date>
-		<meta property="dcterms:modified">1900-01-01T00:00:00Z</meta>
+		<dc:date>2023-11-26T21:09:04Z</dc:date>
+		<meta property="dcterms:modified">2023-11-26T21:09:04Z</meta>
 		<dc:rights>The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).</dc:rights>
 		<dc:publisher id="publisher">Standard Ebooks</dc:publisher>
 		<meta property="file-as" refines="#publisher">Standard Ebooks</meta>
@@ -41,21 +41,21 @@
 		<meta id="collection-1" property="belongs-to-collection">Chronicles of Carlingford</meta>
 		<meta property="collection-type" refines="#collection-1">series</meta>
 		<meta property="group-position" refines="#collection-1">4</meta>
-		<dc:description id="description">A young woman transforms society in a small English town.</dc:description>
+		<dc:description id="description">A young woman sets out to revolutionize the moribund social life of a small English town.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			&lt;p&gt;When Dr. Marjoribanks’s wife dies, his teenage daughter makes it her purpose in life “to be a comfort to dear papa.” At least, Lucilla thinks, ten years of such devotion might suffice, by which time she might have begun to “go off.” But beneath this grand intention lies a yet more ambitious plan: to revolutionize the moribund and constricted social life of Carlingford. She is remarkably well endowed for such an aspiration, being of able mind and otherwise ample proportions.&lt;/p&gt;
+			&lt;p&gt;When Dr. Marjoribanks’s wife dies, his teenage daughter makes it her purpose in life “to be a comfort to dear papa.” At least, Lucilla thinks, ten years of such devotion might suffice, by which time she might have begun to “go off.” But beneath this grand intention lies a yet more ambitious plan: to revolutionize the moribund and constricted social life of Carlingford. She is remarkably well-endowed for such an aspiration, being of able mind and otherwise ample proportions.&lt;/p&gt;
 			&lt;p&gt;As Lucilla’s plans unfold, her Thursday evenings become a great success, and draw into her sphere characters whose lives now become deeply entwined with her own. Naturally, complications of various kinds arise leading to a crisis which taxes Lucilla’s gifts and genius to the utmost.&lt;/p&gt;
-			&lt;p&gt;The novel falls into two distinct parts, for after this first phase of Lucilla’s career reaches its denouement, &lt;a href="https://standardebooks.org/ebooks/margaret-oliphant"&gt;Margaret Oliphant&lt;/a&gt; skips over ten years, to that very point at which Lucilla feared should would be “going off.” Events in these more mature years of Miss Marjoribanks’s life—whose surname is properly pronounced “Marchbanks”—are set in the time corresponding roughly to that of &lt;a href="https://standardebooks.org/ebooks/margaret-oliphant/salem-chapel"&gt;&lt;i&gt;Salem Chapel&lt;/i&gt;&lt;/a&gt;, an earlier work in the &lt;a href="https://standardebooks.org/collections/chronicles-of-carlingford"&gt;Chronicles of Carlingford&lt;/a&gt;.&lt;/p&gt;
+			&lt;p&gt;The novel falls into two distinct parts, for after this first phase of Lucilla’s career reaches its denouement, &lt;a href="https://standardebooks.org/ebooks/margaret-oliphant"&gt;Oliphant&lt;/a&gt; skips over ten years, to that very point at which Lucilla feared would be “going off.” Events in these more mature years of Miss Marjoribanks’s life are set in the time corresponding roughly to that of &lt;a href="https://standardebooks.org/ebooks/margaret-oliphant/salem-chapel"&gt;&lt;i&gt;Salem Chapel&lt;/i&gt;&lt;/a&gt;, an earlier work in the &lt;a href="https://standardebooks.org/collections/chronicles-of-carlingford"&gt;Chronicles of Carlingford&lt;/a&gt;.&lt;/p&gt;
 			&lt;p&gt;Modern appreciation of the novel rose with Q. D. Leavis’s introduction to a 1969 reprint, in which he suggested that Oliphant is the “missing link” between &lt;a href="https://standardebooks.org/ebooks/jane-austen"&gt;Jane Austen&lt;/a&gt; and &lt;a href="https://standardebooks.org/ebooks/george-eliot"&gt;George Eliot&lt;/a&gt;. There is something about Lucilla that reminds the reader of &lt;a href="https://standardebooks.org/ebooks/jane-austen/emma"&gt;&lt;i&gt;Emma&lt;/i&gt;&lt;/a&gt;, and which informs the character of Dorothea who was to appear a few years after &lt;i&gt;Miss Marjoribanks&lt;/i&gt; in Eliot’s classic, &lt;a href="https://standardebooks.org/ebooks/george-eliot/middlemarch"&gt;&lt;i&gt;Middlemarch&lt;/i&gt;&lt;/a&gt;.&lt;/p&gt;
-			&lt;p&gt;With its fine observations, fully realized characters, and sharp but dry humor, &lt;i&gt;Miss Marjoribanks&lt;/i&gt; remains something of a neglected masterpiece of nineteenth century fiction. Yet as R. C. Terry writes in his book on &lt;i&gt;Victorian Popular Fiction&lt;/i&gt;, it is “the most sophisticated and charming of the series, and a novel that can stand comparison with the best contemporary novels of its kind.”&lt;/p&gt;
+			&lt;p&gt;With its fine observations, fully realized characters, and sharp but dry humor, &lt;i&gt;Miss Marjoribanks&lt;/i&gt; remains something of a neglected masterpiece of nineteenth century fiction. Yet as R. C. Terry writes in his book &lt;i&gt;Victorian Popular Fiction&lt;/i&gt;, it is “the most sophisticated and charming of the series, and a novel that can stand comparison with the best contemporary novels of its kind.”&lt;/p&gt;
 		</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/41286</dc:source>
 		<dc:source>https://books.google.com/books?id=fckBAAAAQAAJ</dc:source>
 		<dc:source>https://books.google.com/books?id=rMkBAAAAQAAJ</dc:source>
 		<dc:source>https://books.google.com/books?id=v8kBAAAAQAAJ</dc:source>
-		<meta property="se:word-count">WORD_COUNT</meta>
-		<meta property="se:reading-ease.flesch">READING_EASE</meta>
+		<meta property="se:word-count">208352</meta>
+		<meta property="se:reading-ease.flesch">64.04</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Miss_Marjoribanks</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/margaret-oliphant_miss-marjoribanks</meta>
 		<dc:creator id="author">Margaret Oliphant</dc:creator>
@@ -84,6 +84,10 @@
 		<meta property="role" refines="#producer-1" scheme="marc:relators">mrk</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">pfr</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">tyg</meta>
+		<dc:contributor id="producer-2">Weijia Cheng</dc:contributor>
+		<meta property="file-as" refines="#producer-2">Cheng, Weijia</meta>
+		<meta property="se:url.homepage" refines="#producer-2">https://weijiarhymeswith.asia</meta>
+		<meta property="role" refines="#producer-2" scheme="marc:relators">pfr</meta>
 	</metadata>
 	<manifest>
 		<item href="css/core.css" id="core.css" media-type="text/css"/>
